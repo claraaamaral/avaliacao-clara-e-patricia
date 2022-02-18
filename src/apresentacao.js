@@ -1,0 +1,21 @@
+function Apresentacao (){
+    return (
+        <div>
+            <article>
+            <h3>ANALISE E DESENVOLVIMENTO DE SISTEMAS</h3>
+                <p>
+                <p>Além da formação geral em Tecnologia em Análise e Desenvolvimento de Sistemas, o curso tem objetivo de promover a integração entre as ciências agrárias e a denominada Tecnologia da Informação (TI) com suas diversas subáreas, obtendo-se assim uma gama de benefícios e ampliação do espectro de formação profissional em nível superior, considerando que um curso desta natureza permitirá ao egresso propor soluções tecnológicas em software e/ou hardware para as ciências agrárias ou, usando uma nomenclatura mais específica e mercadológica, para a cadeia do agronegócio e da agricultura familiar, sendo, nesse sentido estratégico para o desenvolvimento regional e nacional. Tais objetivos baseiam-se na formação de Tecnólogos com capacidade técnico-científica e visão integral, ética e humanística, comprometidos com o bem estar da sociedade envolvida e com o desenvolvimento sustentável, exercendo todas as competências relacionadas à profissão.</p>
+
+         </p>
+            </article>
+<figure>
+    <img src="fachadaa.jpg" alt="imagem"/> 
+</figure>
+
+        </div>
+       
+    );
+
+}
+
+export default Apresentacao;
